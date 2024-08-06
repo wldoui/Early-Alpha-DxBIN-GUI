@@ -1,6 +1,6 @@
 # [Early-Alpha] DxBIN.GUI
 
-Fake GUI to hack the user?
+**Fake GUI to hack the user😨**
 
 This graphical window is designed to make the user/"victim" believe that you are not trying to hack it, in other words, it's a common scam, the gui itself does not carry any viruses or spywars created (so far) only to overturn people who don't know anything about computers. I don't know what else to write, it's just a GUI ¯\(ツ)/¯
 
